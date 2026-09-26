@@ -73,7 +73,11 @@ background-color: #007185;
 
 .buttons {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 400px;
-    margin-top: 50px;
+
+    gap: 50px 300px;
+
+    max-width: 1500px;
+    margin: 55px auto 0;
 }
