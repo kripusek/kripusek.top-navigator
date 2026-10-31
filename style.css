@@ -81,3 +81,33 @@ background-color: #007185;
     max-width: 1500px;
     margin: 55px auto 0;
 }
+
+.blog-list {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 15px;
+}
+
+.post-card {
+    background-color: #222;
+    color: antiquewhite;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.post-card a {
+    color: #ff4fd9;
+}
+
+.post-content {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #222;
+    color: white;
+    border-radius: 10px;
+    text-align: left;
+    line-height: 1.7;
+}
